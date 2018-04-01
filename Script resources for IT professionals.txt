@@ -1,0 +1,3 @@
+# Script resources for IT professionals
+
+https://gallery.technet.microsoft.com/scriptcenter/site/search?f%5B0%5D.Type=ProgrammingLanguage&f%5B0%5D.Value=Python&f%5B0%5D.Text=Python
