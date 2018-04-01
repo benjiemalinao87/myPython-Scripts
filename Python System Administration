@@ -1,0 +1,19 @@
+/// Python System Administration
+Overview
+
+The OS module in Python provides a way of using operating system dependent
+functionality. 
+
+The functions that the OS module provides allows you to interface with the
+underlying operating system that Python is running on. (Windows, Mac or
+Linux. 
+
+You can find important information about your location or about the process. 
+
+Before we start, make sure that you have imported the OS module "import os"
+
+///
+
+
+
+http://www.pythonforbeginners.com/os/python-system-administration
